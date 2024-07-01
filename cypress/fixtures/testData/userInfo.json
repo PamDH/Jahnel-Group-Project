@@ -1,0 +1,10 @@
+{
+    "firstName": "Pamela",
+    "lastName": "Harraway",
+    "email": "pdharraway@gmail.com",
+    "invalidEmail": "1@",
+    "phone": "4043954855",
+    "company": "WhatACompany",
+    "city": "Atlanta",
+    "state": "GA"
+}
